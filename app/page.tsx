@@ -209,13 +209,10 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-16 items-center">
 
             <AnimateIn animation="fade-left">
-              <span className="inline-block text-xs font-bold text-[#1A56A0] uppercase tracking-widest mb-4">Profesionales comprometidos</span>
+              <span className="inline-block text-xs font-bold text-[#1A56A0] uppercase tracking-widest mb-4">Más de 35 voluntarios activos</span>
               <h2 className="text-3xl md:text-4xl font-black text-[#0C2B60] mb-3 leading-tight">
                 Un equipo, una familia
               </h2>
-              <h3 className="text-lg font-semibold text-[#1A56A0] mb-6">
-                Profesionales comprometidos con la salud mental
-              </h3>
               <p className="text-[#666] leading-relaxed text-base mb-8">
                 Contamos con un equipo altamente capacitado de psicólogos, voluntarios y especialistas que comparten la pasión por el cambio. Trabajamos con empatía, compromiso y profesionalismo para generar un impacto positivo en cada persona.
               </p>
