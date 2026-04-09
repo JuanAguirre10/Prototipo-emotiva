@@ -1,0 +1,17 @@
+[
+  { "id": "pag1", "paciente": "Ana García López", "pacienteId": "pac1", "monto": 100, "modalidad": "transferencia", "fecha": "2026-04-08", "estado": "pagado", "concepto": "Sesión individual — Dra. Camila Torres" },
+  { "id": "pag2", "paciente": "Valeria Huanca Soto", "pacienteId": "pac7", "monto": 100, "modalidad": "yape", "fecha": "2026-04-08", "estado": "pagado", "concepto": "Sesión individual — Dra. Camila Torres" },
+  { "id": "pag3", "paciente": "Lucía Flores Tapia", "pacienteId": "pac3", "monto": 80, "modalidad": "efectivo", "fecha": "2026-04-08", "estado": "pendiente", "concepto": "Sesión infanto-juvenil — Lic. Rodrigo Medina" },
+  { "id": "pag4", "paciente": "Sandra Quispe Mamani", "pacienteId": "pac5", "monto": 120, "modalidad": "efectivo", "fecha": "2026-04-08", "estado": "pagado", "concepto": "Terapia de pareja — Mg. Sofía Alvarado" },
+  { "id": "pag5", "paciente": "José Ramírez Pino", "pacienteId": "pac8", "monto": 350, "modalidad": "transferencia", "fecha": "2026-04-03", "estado": "pagado", "concepto": "Evaluación psicológica completa — Lic. Diego Paredes" },
+  { "id": "pag6", "paciente": "Carlos Mendoza Riva", "pacienteId": "pac2", "monto": 100, "modalidad": "efectivo", "fecha": "2026-04-09", "estado": "pendiente", "concepto": "Sesión individual — Dra. Camila Torres" },
+  { "id": "pag7", "paciente": "Miguel Torres Cueva", "pacienteId": "pac4", "monto": 80, "modalidad": "yape", "fecha": "2026-04-09", "estado": "pendiente", "concepto": "Sesión infanto-juvenil — Lic. Rodrigo Medina" },
+  { "id": "pag8", "paciente": "Ana García López", "pacienteId": "pac1", "monto": 340, "modalidad": "transferencia", "fecha": "2026-03-15", "estado": "pagado", "concepto": "Pack 4 sesiones — Dra. Camila Torres" },
+  { "id": "pag9", "paciente": "Valeria Huanca Soto", "pacienteId": "pac7", "monto": 640, "modalidad": "transferencia", "fecha": "2026-03-01", "estado": "pagado", "concepto": "Pack 8 sesiones — Dra. Camila Torres" },
+  { "id": "pag10", "paciente": "Patricia Mamani Condori", "pacienteId": "pac9", "monto": 350, "modalidad": "transferencia", "fecha": "2026-03-25", "estado": "pagado", "concepto": "Evaluación completa — Lic. Diego Paredes" },
+  { "id": "pag11", "paciente": "Lucía Flores Tapia", "pacienteId": "pac3", "monto": 640, "modalidad": "efectivo", "fecha": "2026-02-10", "estado": "pagado", "concepto": "Pack 8 sesiones — Lic. Rodrigo Medina" },
+  { "id": "pag12", "paciente": "Sandra Quispe Mamani", "pacienteId": "pac5", "monto": 340, "modalidad": "yape", "fecha": "2026-03-10", "estado": "pagado", "concepto": "Pack 4 sesiones — Mg. Sofía Alvarado" },
+  { "id": "pag13", "paciente": "Roberto Villanueva Cruz", "pacienteId": "pac6", "monto": 120, "modalidad": "efectivo", "fecha": "2026-02-15", "estado": "pagado", "concepto": "Terapia de pareja — Mg. Sofía Alvarado" },
+  { "id": "pag14", "paciente": "Miguel Torres Cueva", "pacienteId": "pac4", "monto": 340, "modalidad": "transferencia", "fecha": "2026-03-05", "estado": "pagado", "concepto": "Pack 4 sesiones — Lic. Rodrigo Medina" },
+  { "id": "pag15", "paciente": "José Ramírez Pino", "pacienteId": "pac8", "monto": 100, "modalidad": "yape", "fecha": "2026-04-08", "estado": "pendiente", "concepto": "Sesión seguimiento — Lic. Diego Paredes" }
+]

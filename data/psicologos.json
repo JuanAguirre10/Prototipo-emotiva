@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ps1",
+    "nombre": "Dra. Camila Torres",
+    "especialidad": "Psicología Clínica Adultos",
+    "foto": "/team/ps1.jpg",
+    "descripcion": "Especialista en terapia cognitivo-conductual con más de 8 años de experiencia en tratamiento de ansiedad, depresión y trauma.",
+    "enfoque": "Cognitivo-Conductual (TCC)",
+    "formacion": "Mg. Psicología Clínica - PUCP",
+    "colegiatura": "CPsP 12345",
+    "horario": { "lunes": ["09:00","10:00","11:00","14:00","15:00"], "martes": ["09:00","10:00","16:00","17:00"], "miercoles": ["09:00","10:00","11:00","14:00"], "jueves": ["09:00","10:00","16:00","17:00"], "viernes": ["09:00","10:00","11:00"] },
+    "estado": "activo",
+    "citasEstaSemana": 12
+  },
+  {
+    "id": "ps2",
+    "nombre": "Lic. Rodrigo Medina",
+    "especialidad": "Psicología Infanto-Juvenil",
+    "foto": "/team/ps2.jpg",
+    "descripcion": "Psicólogo especializado en niños y adolescentes. Experto en trastornos del aprendizaje, TDAH y desarrollo emocional.",
+    "enfoque": "Sistémico e Integrativo",
+    "formacion": "Lic. Psicología - UNMSM | Esp. Neuropsicología Infantil",
+    "colegiatura": "CPsP 23456",
+    "horario": { "lunes": ["14:00","15:00","16:00","17:00"], "martes": ["09:00","10:00","11:00"], "miercoles": ["14:00","15:00","16:00"], "jueves": ["09:00","10:00","11:00"], "viernes": ["14:00","15:00","16:00"] },
+    "estado": "activo",
+    "citasEstaSemana": 9
+  },
+  {
+    "id": "ps3",
+    "nombre": "Mg. Sofía Alvarado",
+    "especialidad": "Terapia de Pareja y Familia",
+    "foto": "/team/ps3.jpg",
+    "descripcion": "Experta en dinámicas relacionales, comunicación asertiva y mediación familiar. Formada en terapia sistémica y narrativa.",
+    "enfoque": "Sistémico-Narrativo",
+    "formacion": "Mg. Terapia Familiar - UPC | Diplomado Terapia de Pareja",
+    "colegiatura": "CPsP 34567",
+    "horario": { "lunes": ["09:00","10:00","11:00"], "martes": ["14:00","15:00","16:00","17:00"], "miercoles": ["09:00","10:00","11:00"], "jueves": ["14:00","15:00","16:00"], "viernes": ["09:00","10:00"] },
+    "estado": "activo",
+    "citasEstaSemana": 8
+  },
+  {
+    "id": "ps4",
+    "nombre": "Lic. Diego Paredes",
+    "especialidad": "Evaluación Psicológica y Forense",
+    "foto": "/team/ps4.jpg",
+    "descripcion": "Especialista en evaluación psicológica, psicodiagnóstico y elaboración de informes clínicos y periciales.",
+    "enfoque": "Psicodinámico e Integrativo",
+    "formacion": "Lic. Psicología - USMP | Esp. Psicología Forense",
+    "colegiatura": "CPsP 45678",
+    "horario": { "lunes": ["11:00","14:00","15:00"], "martes": ["11:00","14:00","15:00"], "miercoles": ["11:00","14:00","15:00"], "jueves": ["11:00","14:00","15:00"], "viernes": ["11:00","14:00"] },
+    "estado": "activo",
+    "citasEstaSemana": 6
+  }
+]

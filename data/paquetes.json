@@ -1,0 +1,46 @@
+[
+  {
+    "id": "pk1",
+    "nombre": "Sesión Individual",
+    "sesiones": 1,
+    "precio": 100,
+    "precioOriginal": null,
+    "ahorro": null,
+    "popular": false,
+    "descripcion": "Ideal para comenzar o cuando necesitas apoyo puntual.",
+    "beneficios": ["1 sesión de 50 minutos", "Con el psicólogo de tu elección", "Nota de sesión incluida", "Confirmación por WhatsApp"]
+  },
+  {
+    "id": "pk2",
+    "nombre": "Pack 4 Sesiones",
+    "sesiones": 4,
+    "precio": 340,
+    "precioOriginal": 400,
+    "ahorro": 60,
+    "popular": false,
+    "descripcion": "Para iniciar un proceso terapéutico con continuidad.",
+    "beneficios": ["4 sesiones de 50 minutos", "Evaluación inicial incluida", "Plan terapéutico personalizado", "Acceso a materiales de apoyo", "Reagendamiento sin costo"]
+  },
+  {
+    "id": "pk3",
+    "nombre": "Pack 8 Sesiones",
+    "sesiones": 8,
+    "precio": 640,
+    "precioOriginal": 800,
+    "ahorro": 160,
+    "popular": true,
+    "descripcion": "El más elegido. Proceso completo con seguimiento real.",
+    "beneficios": ["8 sesiones de 50 minutos", "Evaluación psicológica inicial", "Plan terapéutico completo", "Informe de evolución", "Soporte entre sesiones por chat", "2 reagendamientos gratuitos", "Acceso a talleres grupales"]
+  },
+  {
+    "id": "pk4",
+    "nombre": "Evaluación Completa",
+    "sesiones": null,
+    "precio": 350,
+    "precioOriginal": 450,
+    "ahorro": 100,
+    "popular": false,
+    "descripcion": "Evaluación psicológica integral con informe detallado.",
+    "beneficios": ["3 sesiones de evaluación", "Batería de pruebas psicométricas", "Informe psicológico completo", "Sesión de devolución de resultados", "Recomendaciones y plan de acción"]
+  }
+]

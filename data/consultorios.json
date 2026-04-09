@@ -1,0 +1,6 @@
+[
+  { "id": "co1", "nombre": "Consultorio A", "estado": "ocupado", "sesionActiva": "Ana García López — Dra. Camila Torres", "equipamiento": ["Computadora", "Cámara web", "Escritorio", "Sillón terapéutico"], "historialHoy": ["09:00 — Ana García", "10:00 — Valeria Huanca"] },
+  { "id": "co2", "nombre": "Consultorio B", "estado": "disponible", "sesionActiva": null, "equipamiento": ["Computadora", "Cámara web", "Mesa de trabajo", "Sillas"], "historialHoy": ["14:00 — Lucía Flores (pendiente)"] },
+  { "id": "co3", "nombre": "Consultorio C", "estado": "en_limpieza", "sesionActiva": null, "equipamiento": ["Computadora", "Cámara web", "Sillones", "Espacio de relajación"], "historialHoy": ["11:00 — Sandra Quispe (completada)"] },
+  { "id": "co4", "nombre": "Consultorio D", "estado": "disponible", "sesionActiva": null, "equipamiento": ["Computadora", "Escritorio amplio", "Mesa de evaluación", "Material psicométrico"], "historialHoy": ["15:00 — José Ramírez (pendiente)"] }
+]

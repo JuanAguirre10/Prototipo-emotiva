@@ -1,0 +1,35 @@
+[
+  {
+    "id": "pr1",
+    "nombre": "Reto Ruralia",
+    "descripcion": "Llevamos atención psicológica gratuita a comunidades rurales de Lima y provincias. Sesiones presenciales y talleres comunitarios para poblaciones vulnerables.",
+    "estado": "activo",
+    "metaDonacion": 15000,
+    "donacionActual": 9800,
+    "imagen": "/proyectos/ruralia.jpg",
+    "beneficiarios": 320,
+    "voluntarios": 12
+  },
+  {
+    "id": "pr2",
+    "nombre": "Conectarse para Crecer",
+    "descripcion": "Programa de salud mental en colegios públicos de Lima Sur. Talleres de inteligencia emocional, prevención del bullying y habilidades sociales para adolescentes.",
+    "estado": "activo",
+    "metaDonacion": 8000,
+    "donacionActual": 6200,
+    "imagen": "/proyectos/crecer.jpg",
+    "beneficiarios": 850,
+    "voluntarios": 18
+  },
+  {
+    "id": "pr3",
+    "nombre": "Cuida tu Mente",
+    "descripcion": "Atención psicológica gratuita para adultos mayores en situación de vulnerabilidad. Grupos de apoyo, actividades cognitivas y acompañamiento emocional.",
+    "estado": "próximo",
+    "metaDonacion": 5000,
+    "donacionActual": 1400,
+    "imagen": "/proyectos/adultosMayores.jpg",
+    "beneficiarios": 0,
+    "voluntarios": 6
+  }
+]

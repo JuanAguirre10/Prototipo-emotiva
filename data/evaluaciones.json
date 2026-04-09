@@ -1,0 +1,10 @@
+[
+  { "id": "ev1", "pacienteId": "pac1", "tipo": "Ansiedad (GAD-7)", "fechas": ["2026-03-01","2026-03-15","2026-04-01","2026-04-08"], "resultados": [18, 14, 10, 7], "interpretacion": "Mejoría significativa: de ansiedad severa (18) a leve (7)" },
+  { "id": "ev2", "pacienteId": "pac1", "tipo": "Depresión (PHQ-9)", "fechas": ["2026-03-01","2026-03-15","2026-04-01","2026-04-08"], "resultados": [12, 9, 7, 5], "interpretacion": "Reducción de moderada (12) a mínima (5)" },
+  { "id": "ev3", "pacienteId": "pac7", "tipo": "Ansiedad Social (LSAS)", "fechas": ["2026-03-08","2026-03-22","2026-04-05","2026-04-08"], "resultados": [72, 65, 54, 48], "interpretacion": "Disminución progresiva de ansiedad social" },
+  { "id": "ev4", "pacienteId": "pac3", "tipo": "Atención (CONNERS)", "fechas": ["2026-02-15","2026-03-01","2026-03-22","2026-04-05"], "resultados": [28, 25, 20, 17], "interpretacion": "Mejora en indicadores de atención e impulsividad" },
+  { "id": "ev5", "pacienteId": "pac2", "tipo": "Depresión (PHQ-9)", "fechas": ["2026-03-20","2026-04-03"], "resultados": [19, 17], "interpretacion": "Leve mejoría en proceso inicial" },
+  { "id": "ev6", "pacienteId": "pac5", "tipo": "Satisfacción de Pareja (DAS)", "fechas": ["2026-03-15","2026-04-04","2026-04-08"], "resultados": [65, 82, 95], "interpretacion": "Mejora en ajuste diádico y satisfacción relacional" },
+  { "id": "ev7", "pacienteId": "pac9", "tipo": "Personalidad (MMPI-2)", "fechas": ["2026-03-25","2026-04-08"], "resultados": [null, null], "interpretacion": "Evaluación en proceso — pendiente de corrección" },
+  { "id": "ev8", "pacienteId": "pac4", "tipo": "Inteligencia (WISC-V)", "fechas": ["2026-03-20"], "resultados": [92], "interpretacion": "CI Total: 92 (Promedio). Déficit en velocidad de procesamiento" }
+]

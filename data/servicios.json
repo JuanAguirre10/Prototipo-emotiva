@@ -1,0 +1,62 @@
+[
+  {
+    "id": "s1",
+    "nombre": "Terapia Individual",
+    "icono": "🧠",
+    "descripcion": "Atención personalizada para adultos, adolescentes y niños. Abordamos ansiedad, depresión, autoestima, trauma y bienestar emocional con técnicas basadas en evidencia.",
+    "duracion": "50 min",
+    "precio": "S/ 80 - S/ 120",
+    "categoria": "individual",
+    "beneficios": ["Evaluación inicial gratuita", "Plan terapéutico personalizado", "Seguimiento entre sesiones", "Recursos y materiales de apoyo"]
+  },
+  {
+    "id": "s2",
+    "nombre": "Terapia de Pareja",
+    "icono": "💑",
+    "descripcion": "Fortalecemos los vínculos de pareja mediante comunicación asertiva, resolución de conflictos y técnicas de reconexión emocional para parejas en crisis o en crecimiento.",
+    "duracion": "60 min",
+    "precio": "S/ 100 - S/ 150",
+    "categoria": "pareja",
+    "beneficios": ["Sesión de diagnóstico relacional", "Plan de intervención conjunto", "Tareas terapéuticas entre sesiones", "Sesiones individuales de apoyo"]
+  },
+  {
+    "id": "s3",
+    "nombre": "Terapia Familiar",
+    "icono": "👨‍👩‍👧‍👦",
+    "descripcion": "Trabajamos con el sistema familiar para mejorar la comunicación, resolver conflictos generacionales y construir vínculos saludables que beneficien a todos sus integrantes.",
+    "duracion": "60-90 min",
+    "precio": "S/ 120 - S/ 180",
+    "categoria": "familiar",
+    "beneficios": ["Evaluación sistémica familiar", "Trabajo con cada miembro", "Dinámicas grupales terapéuticas", "Talleres de habilidades parentales"]
+  },
+  {
+    "id": "s4",
+    "nombre": "Psicología Infantil",
+    "icono": "🧒",
+    "descripcion": "Acompañamiento especializado para niños de 4 a 12 años con dificultades emocionales, conductuales o de aprendizaje, incluyendo orientación a padres.",
+    "duracion": "45 min",
+    "precio": "S/ 80 - S/ 100",
+    "categoria": "infantil",
+    "beneficios": ["Técnicas lúdicas y adaptadas", "Orientación psicológica a padres", "Coordinación con colegios", "Evaluación del desarrollo"]
+  },
+  {
+    "id": "s5",
+    "nombre": "Evaluación Psicológica",
+    "icono": "📋",
+    "descripcion": "Evaluación integral con pruebas psicométricas estandarizadas para diagnóstico clínico, orientación vocacional, peritajes o procesos laborales.",
+    "duracion": "3-5 sesiones",
+    "precio": "S/ 200 - S/ 400",
+    "categoria": "evaluacion",
+    "beneficios": ["Batería de pruebas completa", "Informe psicológico detallado", "Devolución de resultados", "Seguimiento post-evaluación"]
+  },
+  {
+    "id": "s6",
+    "nombre": "Talleres Grupales",
+    "icono": "🎯",
+    "descripcion": "Talleres de habilidades sociales, manejo del estrés, autoestima y mindfulness en grupos pequeños de 6 a 10 personas para un aprendizaje colaborativo.",
+    "duracion": "90 min",
+    "precio": "S/ 40 - S/ 60",
+    "categoria": "grupal",
+    "beneficios": ["Grupos reducidos (máx. 10 personas)", "Material de trabajo incluido", "Certificado de participación", "Acceso a grupo de seguimiento"]
+  }
+]
