@@ -69,7 +69,7 @@ export default function ServiciosPage() {
           <p className="text-white/65 text-lg max-w-2xl mx-auto mb-8">
             Atención integral de lunes a domingo · Presencial y online · Lima Sur y Lima Centro
           </p>
-          <p className="text-[#1A56A0] font-bold text-xs uppercase tracking-widest bg-white/10 inline-block px-5 py-2 rounded-full mb-10">
+          <p className="text-white font-bold text-xs uppercase tracking-widest bg-white/20 border border-white/30 inline-block px-5 py-2 rounded-full mb-10">
             ÚNICO CENTRO CON LÍNEA DE EMERGENCIA · TALLERES GRATUITOS PARA TODOS
           </p>
 

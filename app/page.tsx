@@ -209,7 +209,7 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-16 items-center">
 
             <AnimateIn animation="fade-left">
-              <span className="inline-block text-xs font-bold text-[#1A56A0] uppercase tracking-widest mb-4">Nuestro equipo</span>
+              <span className="inline-block text-xs font-bold text-[#1A56A0] uppercase tracking-widest mb-4">Profesionales comprometidos</span>
               <h2 className="text-3xl md:text-4xl font-black text-[#0C2B60] mb-3 leading-tight">
                 Un equipo, una familia
               </h2>

@@ -31,7 +31,7 @@ export default function EquipoPage() {
 
             {/* Centro — texto */}
             <AnimateIn animation="fade-up" className="text-center flex-1">
-              <span className="inline-block text-sky-300 text-xs font-bold uppercase tracking-widest mb-5">Nuestro equipo</span>
+              <span className="inline-block text-sky-300 text-xs font-bold uppercase tracking-widest mb-5">Centro Psicológico Emotiva</span>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white leading-tight mb-5">
                 Un equipo,<br />una misión
               </h1>
