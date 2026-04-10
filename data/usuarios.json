@@ -1,0 +1,10 @@
+[
+  { "id": "usr1", "nombre": "Cuenta Admin", "correo": "admin@emotiva.pe", "rol": "admin", "estado": "activo", "ultimoAcceso": "2026-04-08", "creadoEn": "2025-01-01" },
+  { "id": "usr2", "nombre": "Dra. Camila Torres", "correo": "psicologo@emotiva.pe", "rol": "psicologo", "estado": "activo", "ultimoAcceso": "2026-04-08", "creadoEn": "2025-01-15" },
+  { "id": "usr3", "nombre": "Recepción Emotiva", "correo": "recepcion@emotiva.pe", "rol": "recepcionista", "estado": "activo", "ultimoAcceso": "2026-04-08", "creadoEn": "2025-02-01" },
+  { "id": "usr4", "nombre": "Ana García López", "correo": "paciente@emotiva.pe", "rol": "paciente", "estado": "activo", "ultimoAcceso": "2026-04-06", "creadoEn": "2025-10-15" },
+  { "id": "usr5", "nombre": "Lic. Sofía Mendoza", "correo": "sofia.mendoza@emotiva.pe", "rol": "psicologo", "estado": "activo", "ultimoAcceso": "2026-04-07", "creadoEn": "2025-01-15" },
+  { "id": "usr6", "nombre": "Mg. Andrés Quispe", "correo": "andres.quispe@emotiva.pe", "rol": "psicologo", "estado": "activo", "ultimoAcceso": "2026-04-07", "creadoEn": "2025-01-15" },
+  { "id": "usr7", "nombre": "Lic. Ramón Castillo", "correo": "ramon.castillo@emotiva.pe", "rol": "psicologo", "estado": "activo", "ultimoAcceso": "2026-04-06", "creadoEn": "2025-01-15" },
+  { "id": "usr8", "nombre": "María Luisa Vega", "correo": "maria.vega@emotiva.pe", "rol": "recepcionista", "estado": "inactivo", "ultimoAcceso": "2026-02-20", "creadoEn": "2025-03-10" }
+]

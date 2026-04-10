@@ -1,0 +1,12 @@
+[
+  { "id": "inf1", "titulo": "Informe de evolución — Sesión 8", "pacienteId": "pac1", "paciente": "Ana García López", "psicologoId": "ps1", "psicologo": "Dra. Camila Torres", "tipo": "evolucion", "fecha": "2026-04-05", "estado": "completado" },
+  { "id": "inf2", "titulo": "Evaluación inicial — Ansiedad Social", "pacienteId": "pac7", "paciente": "Valeria Huanca Soto", "psicologoId": "ps1", "psicologo": "Dra. Camila Torres", "tipo": "evaluacion_inicial", "fecha": "2025-12-10", "estado": "completado" },
+  { "id": "inf3", "titulo": "Informe de peritaje psicológico", "pacienteId": "pac9", "paciente": "Patricia Mamani Condori", "psicologoId": "ps4", "psicologo": "Lic. Ramón Castillo", "tipo": "peritaje", "fecha": "2026-04-08", "estado": "borrador" },
+  { "id": "inf4", "titulo": "Evaluación cognitiva WISC-V", "pacienteId": "pac4", "paciente": "Miguel Torres Cueva", "psicologoId": "ps2", "psicologo": "Lic. Sofía Mendoza", "tipo": "evaluacion_inicial", "fecha": "2026-03-20", "estado": "completado" },
+  { "id": "inf5", "titulo": "Informe de evolución — Sesión 3", "pacienteId": "pac2", "paciente": "Carlos Mendoza Riva", "psicologoId": "ps1", "psicologo": "Dra. Camila Torres", "tipo": "evolucion", "fecha": "2026-03-20", "estado": "revision" },
+  { "id": "inf6", "titulo": "Informe de alta terapéutica", "pacienteId": "pac6", "paciente": "Roberto Villanueva Cruz", "psicologoId": "ps3", "psicologo": "Mg. Andrés Quispe", "tipo": "alta", "fecha": "2026-02-15", "estado": "completado" },
+  { "id": "inf7", "titulo": "Evaluación de dinámica familiar", "pacienteId": "pac13", "paciente": "Familia Rodríguez-Sanz", "psicologoId": "ps2", "psicologo": "Lic. Sofía Mendoza", "tipo": "evaluacion_inicial", "fecha": "2025-11-15", "estado": "completado" },
+  { "id": "inf8", "titulo": "Informe de terapia de pareja — Mes 2", "pacienteId": "pac11", "paciente": "Paula y Sergio Morales", "psicologoId": "ps3", "psicologo": "Mg. Andrés Quispe", "tipo": "evolucion", "fecha": "2026-03-10", "estado": "completado" },
+  { "id": "inf9", "titulo": "Informe MMPI-2 en proceso", "pacienteId": "pac9", "paciente": "Patricia Mamani Condori", "psicologoId": "ps4", "psicologo": "Lic. Ramón Castillo", "tipo": "peritaje", "fecha": "2026-03-25", "estado": "revision" },
+  { "id": "inf10", "titulo": "Evaluación inicial — Conducta disruptiva", "pacienteId": "pac10", "paciente": "Diego Chávez Palomino", "psicologoId": "ps2", "psicologo": "Lic. Sofía Mendoza", "tipo": "evaluacion_inicial", "fecha": "2026-03-01", "estado": "completado" }
+]
