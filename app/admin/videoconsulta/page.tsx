@@ -22,7 +22,7 @@ function initials(nombre: string) {
 }
 
 export default function AdminVideoconsultaPage() {
-  const [sesionActiva, setSesionActiva] = useState(proximas[0] ?? null);
+  const [sesionActiva, setSesionActiva] = useState<typeof proximas[number] | null>(proximas[0] ?? null);
   const [copied, setCopied] = useState(false);
 
   const roomName = sesionActiva ? `emotiva-sesion-${sesionActiva.id}` : "emotiva-sala-general";
